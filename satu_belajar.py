@@ -20,3 +20,5 @@ else:
 
 print("budi pulang ke rumah ")
 print("budi menyerahkan belanja ke ibu")
+
+print("program selesai")
