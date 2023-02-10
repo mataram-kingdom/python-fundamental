@@ -7,7 +7,7 @@ from deteksi_gempa import tampilkan_data, ekstraksi_data
 # 3.0
 # 8 km
 # 2.54 LS - 140.68 BT
-# Pusat gempa berada di darat 4 km BaratDaya Kota Jayapura
+
 # Dirasakan (Skala MMI): II Kota Jayapura
 
 
