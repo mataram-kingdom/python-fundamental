@@ -12,6 +12,7 @@ def ekstraksi_data():
     except  Exception:
         return None
     if r.status_code == 200 :
+        print(r.text)
         print(r.status_code)
 
     # soup = BeautifulSoup("<p>Some<b>bad<i>HTML")
