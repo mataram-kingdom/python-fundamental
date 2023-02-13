@@ -83,5 +83,5 @@ def tampilkan_data(result):
     print(f'lokasi \t\t : {result["lokasi"]}')
     print(f'ket \t\t : {result["dirasakan"]}')
 
-# if __name__ = '__main__':
-#     print("hai")
+if __name__ = '__main__':
+    print
